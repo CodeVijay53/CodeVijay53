@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeVijay53
-- 👀 I’m interested in Coding Learning for CAD Development
+- 👀 I’m interested in Learning code for CAD Development
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on all fields
 - 📫 How to reach me codevijay53
