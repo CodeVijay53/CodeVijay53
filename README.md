@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codevijay53" alt="codevijay53" /></a> </p>
 
-- 🌱 I’m developing projects based on **C#.Net, JS, HTML, CSS, React.js,Node.js MySQL, MongoDB** Learning and developing
+- 🌱 I’m developing projects based on **C#.Net,JS, HTML, CSS, React.js,Node.js,WPF, Window Forms, MySQL, MongoDB** Learning and developing
 - See the portfolio at https://vs-portfolio-olive.vercel.app/
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/codevijay53/overview](https://app.netlify.com/teams/codevijay53/overview)
