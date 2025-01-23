@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C#.Net, JS, HTML, CSS, React.js,Node.js,Three.js MySQL, MongoDB**
 
-- 📫 How to reach me **vijayoffcl@gmail.com**
+- 📫 How to reach me **vijayton2@gmail.com**  **vijayoffcl@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
