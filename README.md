@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/codevijay53/overview](https://app.netlify.com/teams/codevijay53/overview)
 
-- 💬 Ask me about **C#.Net, JS, Python,  HTML, CSS, React.js,Node.js,Three.js MySQL, MongoDB**
+- 💬 Ask me about **C#.Net, JS, Python,  HTML, CSS, React.js,Node.js, MySQL, MongoDB**
 
 - 📫 How to reach me **vijayton2@gmail.com** or **vijayoffcl@gmail.com** 
 
